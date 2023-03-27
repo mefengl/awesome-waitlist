@@ -6,9 +6,14 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [waitlist](#waitlist)
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## waitlist
+
+- [waitlist](https://waitlist.wtf) - It's a waitlist for waitlists. Join the waitlist for waitlists.
 
 ## OpenAI
 
