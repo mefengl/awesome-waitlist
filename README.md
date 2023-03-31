@@ -10,6 +10,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+- [Anthropic](#anthropic)
 
 ## waitlist
 
@@ -28,6 +29,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs) - Join the waitlist for Copilot integration with documentation, bringing AI assistance to your documentation process.
 - [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) - Join the waitlist for Copilot integration with pull requests, enhancing code reviews with AI suggestions.
 - [Copilot CLI](https://githubnext.com/projects/copilot-cli) - Join the waitlist for Copilot command-line interface (CLI), enabling AI-powered coding assistance in your terminal.
+
+## Anthropic
+
+- [Claude](https://www.anthropic.com/earlyaccess) - Join the waitlist for Claude, a next-generation AI assistant for your tasks, no matter the scale
 
 ## Contributing
 
