@@ -6,15 +6,24 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Taxy.AI](#taxyai)
 - [waitlist](#waitlist)
+- [Anthropic](#anthropic)
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
-- [Anthropic](#anthropic)
+
+## Taxy.AI
+
+- [Taxy.AI](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform) - Taxy.AI uses GPT-4 to control your web browser and take actions on your behalf. You give the high-level instructions and Taxy figures out exactly what steps to take.
 
 ## waitlist
 
 - [waitlist](https://waitlist.wtf) - It's a waitlist for waitlists. Join the waitlist for waitlists.
+
+## Anthropic
+
+- [Claude](https://www.anthropic.com/earlyaccess) - Join the waitlist for Claude, a next-generation AI assistant for your tasks, no matter the scale
 
 ## OpenAI
 
@@ -29,10 +38,6 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs) - Join the waitlist for Copilot integration with documentation, bringing AI assistance to your documentation process.
 - [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) - Join the waitlist for Copilot integration with pull requests, enhancing code reviews with AI suggestions.
 - [Copilot CLI](https://githubnext.com/projects/copilot-cli) - Join the waitlist for Copilot command-line interface (CLI), enabling AI-powered coding assistance in your terminal.
-
-## Anthropic
-
-- [Claude](https://www.anthropic.com/earlyaccess) - Join the waitlist for Claude, a next-generation AI assistant for your tasks, no matter the scale
 
 ## Contributing
 
