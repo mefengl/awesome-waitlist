@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Sourcegraph](#sourcegraph)
 - [Airchat](#airchat)
 - [Taxy.AI](#taxyai)
 - [waitlist](#waitlist)
@@ -13,6 +14,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Sourcegraph
+
+- [Cody](https://sourcegraph.typeform.com/cody-signup) - "Cody knows about your code. It has templated actions, such as writing unit tests, generating doc comments, summarizing code, that kind of thing"
 
 ## Airchat
 
