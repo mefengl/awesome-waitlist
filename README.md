@@ -6,12 +6,17 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Airchat](#airchat)
 - [Taxy.AI](#taxyai)
 - [waitlist](#waitlist)
 - [Anthropic](#anthropic)
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Airchat
+
+- [Airchat](https://www.getairchat.com/) - not sure what this is, but it's a waitlist for something AI-related
 
 ## Taxy.AI
 
