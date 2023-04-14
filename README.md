@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Embra](#embra)
 - [Sourcegraph](#sourcegraph)
 - [Airchat](#airchat)
 - [Taxy.AI](#taxyai)
@@ -14,6 +15,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Embra
+
+- [Embra](https://embra.app/) - "Your personal, intelligent AI — always one second away! Embra can pull in contextual data from Chrome and other apps to speed up and unlock creativity across Q&A, brainstorming, writing, reading, and coding."
 
 ## Sourcegraph
 
