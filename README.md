@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Suno Studio](#Suno)
 - [MULTI·ON](#MULTION)
 - [Embra](#embra)
 - [Sourcegraph](#sourcegraph)
@@ -16,6 +17,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Suno
+
+- [Suno Studio](https://3os84zs17th.typeform.com/suno-studio) - such as https://suno-ai.notion.site/Bark-Examples-5edae8b02a604b54a42244ba45ebc2e2
 
 ## MULTION
 
