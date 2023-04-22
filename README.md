@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [kadoa](#kadoa)
 - [Suno Studio](#Suno)
 - [MULTI·ON](#MULTION)
 - [Embra](#embra)
@@ -17,6 +18,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## kadoa
+
+- [kadoa](https://www.kadoa.com/signup/self-serve) - Scrape Websites Easily With AI
 
 ## Suno
 
