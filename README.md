@@ -6,6 +6,8 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Trumpet](#trumpet)
+- [Auto-GPT](#auto-gpt)
 - [kadoa](#kadoa)
 - [Suno Studio](#Suno)
 - [MULTI·ON](#MULTION)
@@ -18,6 +20,14 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## trumpet
+
+- [Twitter Tool](https://www.trumpet.house/)
+
+## auto-gpt
+
+- [auto-gpt gui](https://news.agpt.co/)
 
 ## kadoa
 
