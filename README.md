@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [AI Test Kitchen](#ai-test-kitchen)
 - [Trumpet](#trumpet)
 - [Auto-GPT](#auto-gpt)
 - [kadoa](#kadoa)
@@ -20,6 +21,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## AI Test Kitchen
+
+- [Music LM](https://aitestkitchen.withgoogle.com/experiments/music-lm) - "Describe a musical idea and hear it come to life"
 
 ## trumpet
 
