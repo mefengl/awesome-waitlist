@@ -16,6 +16,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [Sourcegraph](#sourcegraph)
 - [Airchat](#airchat)
 - [Taxy.AI](#taxyai)
+- [IDX](#idx)
 - [waitlist](#waitlist)
 - [Anthropic](#anthropic)
 - [OpenAI](#openai)
@@ -61,6 +62,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 ## Taxy.AI
 
 - [Taxy.AI](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform) - Taxy.AI uses GPT-4 to control your web browser and take actions on your behalf. You give the high-level instructions and Taxy figures out exactly what steps to take.
+
+## IDX
+
+- [Explore IDX](https://idx.dev) - Project IDX is an experimental initiative by Google aimed at bringing full-stack, multiplatform app development to the cloud, offering web-based workspace, templates for popular frameworks, previews for apps, AI assistance, and more.
 
 ## waitlist
 
