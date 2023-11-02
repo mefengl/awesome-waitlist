@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Google AI waitlists](#google-ai-waitlists)
 - [AI Test Kitchen](#ai-test-kitchen)
 - [Trumpet](#trumpet)
 - [Auto-GPT](#auto-gpt)
@@ -22,6 +23,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Google AI waitlists
+
+- [Google Lab](https://labs.google/)
 
 ## AI Test Kitchen
 
