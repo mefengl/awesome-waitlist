@@ -1,7 +1,5 @@
 # Awesome-Waitlist
 
-[![Made by AI](https://img.shields.io/badge/Made%20by-AI-lightgrey?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
-
 A curated list of awesome waitlists for various AI plugins, services, and tools related to OpenAI, GitHub Copilot, and other AI development resources.
 
 ## Contents
