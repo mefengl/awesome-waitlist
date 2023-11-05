@@ -6,6 +6,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Grok](#grok)
 - [Google AI waitlists](#google-ai-waitlists)
 - [AI Test Kitchen](#ai-test-kitchen)
 - [Trumpet](#trumpet)
@@ -23,6 +24,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Grok
+
+- [Grok](https://grok.x.ai/) - "Conversational AI for understanding the universe. Apply for their early access program to get notified when onboarded."
 
 ## Google AI waitlists
 
