@@ -4,6 +4,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [Ozone](#ozone)
 - [Grok](#grok)
 - [Google AI waitlists](#google-ai-waitlists)
 - [AI Test Kitchen](#ai-test-kitchen)
@@ -22,6 +23,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+
+## Ozone
+
+- [Ozone](https://www.ozone.pro/) - "Supercharge your video creation. Ozone is the fastest way to create engaging short-form video."
 
 ## Grok
 
