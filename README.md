@@ -4,8 +4,8 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
+- [xAI](#xAI)
 - [Ozone](#ozone)
-- [Grok](#grok)
 - [Google AI waitlists](#google-ai-waitlists)
 - [AI Test Kitchen](#ai-test-kitchen)
 - [Trumpet](#trumpet)
@@ -24,13 +24,15 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
 
+## xAI
+
+- [Grok](https://grok.x.ai/) - "Conversational AI for understanding the universe."
+
+- [PromptIDE](https://ide.x.ai/) - "Integrated development environment for prompt engineering and interpretability research."
+
 ## Ozone
 
 - [Ozone](https://www.ozone.pro/) - "Supercharge your video creation. Ozone is the fastest way to create engaging short-form video."
-
-## Grok
-
-- [Grok](https://grok.x.ai/) - "Conversational AI for understanding the universe. Apply for their early access program to get notified when onboarded."
 
 ## Google AI waitlists
 
