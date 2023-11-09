@@ -7,7 +7,6 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [xAI](#xAI)
 - [Ozone](#ozone)
 - [Google AI waitlists](#google-ai-waitlists)
-- [AI Test Kitchen](#ai-test-kitchen)
 - [Trumpet](#trumpet)
 - [Auto-GPT](#auto-gpt)
 - [kadoa](#kadoa)
@@ -17,7 +16,6 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [Sourcegraph](#sourcegraph)
 - [Airchat](#airchat)
 - [Taxy.AI](#taxyai)
-- [IDX](#idx)
 - [waitlist](#waitlist)
 - [Anthropic](#anthropic)
 - [OpenAI](#openai)
@@ -38,9 +36,9 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [Google Lab](https://labs.google/)
 
-## AI Test Kitchen
-
 - [Music LM](https://aitestkitchen.withgoogle.com/experiments/music-lm) - "Describe a musical idea and hear it come to life"
+
+- [IDX](https://idx.dev) - Project IDX is an experimental initiative by Google aimed at bringing full-stack, multiplatform app development to the cloud, offering web-based workspace, templates for popular frameworks, previews for apps, AI assistance, and more.
 
 ## trumpet
 
@@ -78,10 +76,6 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [Taxy.AI](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform) - Taxy.AI uses GPT-4 to control your web browser and take actions on your behalf. You give the high-level instructions and Taxy figures out exactly what steps to take.
 
-## IDX
-
-- [Explore IDX](https://idx.dev) - Project IDX is an experimental initiative by Google aimed at bringing full-stack, multiplatform app development to the cloud, offering web-based workspace, templates for popular frameworks, previews for apps, AI assistance, and more.
-
 ## waitlist
 
 - [waitlist](https://waitlist.wtf) - It's a waitlist for waitlists. Join the waitlist for waitlists.
@@ -101,7 +95,9 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 ## GitHubNext
 
 - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs) - Join the waitlist for Copilot integration with documentation, bringing AI assistance to your documentation process.
+
 - [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) - Join the waitlist for Copilot integration with pull requests, enhancing code reviews with AI suggestions.
+
 - [Copilot CLI](https://githubnext.com/projects/copilot-cli) - Join the waitlist for Copilot command-line interface (CLI), enabling AI-powered coding assistance in your terminal.
 
 ## Contributing
