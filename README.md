@@ -21,6 +21,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [OpenAI](#openai)
 - [GitHub Copilot](#github-copilot)
 - [GitHubNext](#githubnext)
+- [WP Post AI](#wp-post-ai)
 
 ## xAI
 
@@ -99,6 +100,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests) - Join the waitlist for Copilot integration with pull requests, enhancing code reviews with AI suggestions.
 
 - [Copilot CLI](https://githubnext.com/projects/copilot-cli) - Join the waitlist for Copilot command-line interface (CLI), enabling AI-powered coding assistance in your terminal.
+
+## WP Post AI
+
+- [WP Post AI](https://wppostai.com/) -  WP Post AI offers intelligent writing assistance for WordPress, making content generation faster and more efficient.
 
 ## Contributing
 
