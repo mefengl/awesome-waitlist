@@ -4,14 +4,14 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
-- [xAI](#xAI)
+- [xAI](#xai)
 - [Ozone](#ozone)
 - [Google AI waitlists](#google-ai-waitlists)
 - [Trumpet](#trumpet)
 - [Auto-GPT](#auto-gpt)
 - [kadoa](#kadoa)
-- [Suno Studio](#Suno)
-- [MULTI·ON](#MULTION)
+- [Suno Studio](#suno)
+- [MULTI·ON](#multion)
 - [Embra](#embra)
 - [Sourcegraph](#sourcegraph)
 - [Airchat](#airchat)
