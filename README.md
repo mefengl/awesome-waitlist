@@ -4,35 +4,31 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contents
 
-- [xAI](#xai)
-- [Ozone](#ozone)
-- [Google AI waitlists](#google-ai-waitlists)
-- [Trumpet](#trumpet)
-- [Auto-GPT](#auto-gpt)
-- [kadoa](#kadoa)
-- [Suno Studio](#suno)
-- [MULTI·ON](#multion)
-- [Embra](#embra)
-- [Sourcegraph](#sourcegraph)
-- [Airchat](#airchat)
-- [Taxy.AI](#taxyai)
-- [waitlist](#waitlist)
-- [Anthropic](#anthropic)
-- [OpenAI](#openai)
-- [GitHub Copilot](#github-copilot)
+- [Google AI Tools](#google-ai-tools)
 - [GitHubNext](#githubnext)
+- [Archive](#archive)
 
-## xAI
+## Google AI Tools
+
+- [Video FX](https://aitestkitchen.withgoogle.com/tools/video-fx) - AI-powered video effects and editing tools from Google AI Test Kitchen.
+
+## GitHubNext
+
+- [Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) - A new AI-powered development environment that brings together coding, documentation, and collaboration.
+
+## Archive
+
+### xAI
 
 - [Grok](https://grok.x.ai/) - "Conversational AI for understanding the universe."
 
 - [PromptIDE](https://ide.x.ai/) - "Integrated development environment for prompt engineering and interpretability research."
 
-## Ozone
+### Ozone
 
 - [Ozone](https://www.ozone.pro/) - "Supercharge your video creation. Ozone is the fastest way to create engaging short-form video."
 
-## Google AI waitlists
+### Google AI waitlists
 
 - [Google Lab](https://labs.google/)
 
@@ -40,59 +36,59 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [IDX](https://idx.dev) - Project IDX is an experimental initiative by Google aimed at bringing full-stack, multiplatform app development to the cloud, offering web-based workspace, templates for popular frameworks, previews for apps, AI assistance, and more.
 
-## trumpet
+### trumpet
 
 - [Twitter Tool](https://www.trumpet.house/)
 
-## auto-gpt
+### auto-gpt
 
 - [auto-gpt gui](https://news.agpt.co/)
 
-## kadoa
+### kadoa
 
 - [kadoa](https://www.kadoa.com/signup/self-serve) - Scrape Websites Easily With AI
 
-## Suno
+### Suno
 
 - [Suno Studio](https://3os84zs17th.typeform.com/suno-studio) - such as https://suno-ai.notion.site/Bark-Examples-5edae8b02a604b54a42244ba45ebc2e2
 
-## MULTION
+### MULTION
 
 - [MULTI·ON](https://b482b2hr95m.typeform.com/to/M5AJZ0i2) - see https://twitter.com/divgarg9/status/1648394059483054081
 
-## Embra
+### Embra
 
 - [Embra](https://embra.app/) - "Your personal, intelligent AI — always one second away! Embra can pull in contextual data from Chrome and other apps to speed up and unlock creativity across Q&A, brainstorming, writing, reading, and coding."
 
-## Sourcegraph
+### Sourcegraph
 
 - [Cody](https://sourcegraph.typeform.com/cody-signup) - "Cody knows about your code. It has templated actions, such as writing unit tests, generating doc comments, summarizing code, that kind of thing"
 
-## Airchat
+### Airchat
 
 - [Airchat](https://www.getairchat.com/) - not sure what this is, but it's a waitlist for something AI-related
 
-## Taxy.AI
+### Taxy.AI
 
 - [Taxy.AI](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform) - Taxy.AI uses GPT-4 to control your web browser and take actions on your behalf. You give the high-level instructions and Taxy figures out exactly what steps to take.
 
-## waitlist
+### waitlist
 
 - [waitlist](https://waitlist.wtf) - It's a waitlist for waitlists. Join the waitlist for waitlists.
 
-## Anthropic
+### Anthropic
 
 - [Claude](https://www.anthropic.com/earlyaccess) - Join the waitlist for Claude, a next-generation AI assistant for your tasks, no matter the scale
 
-## OpenAI
+### OpenAI
 
 - [OpenAI Waitlist Plugins](https://openai.com/waitlist/plugins) - Join the waitlist for various AI plugins powered by OpenAI.
 
-## GitHub Copilot
+### GitHub Copilot
 
 - [Chat Waitlist Signup](https://github.com/github-copilot/chat_waitlist_signup/join) - Sign up for the GitHub Copilot chat waitlist, an AI-powered coding assistant.
 
-## GitHubNext
+### GitHubNext
 
 - [Copilot for Docs](https://githubnext.com/projects/copilot-for-docs) - Join the waitlist for Copilot integration with documentation, bringing AI assistance to your documentation process.
 
