@@ -28,29 +28,15 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [PromptIDE](https://ide.x.ai/) - "Integrated development environment for prompt engineering and interpretability research."
 
-### Ozone
-
-- [Ozone](https://www.ozone.pro/) - "Supercharge your video creation. Ozone is the fastest way to create engaging short-form video."
-
 ### Google AI waitlists
 
 - [Google Lab](https://labs.google/)
 
 - [Music LM](https://aitestkitchen.withgoogle.com/experiments/music-lm) - "Describe a musical idea and hear it come to life"
 
-- [IDX](https://idx.dev) - Project IDX is an experimental initiative by Google aimed at bringing full-stack, multiplatform app development to the cloud, offering web-based workspace, templates for popular frameworks, previews for apps, AI assistance, and more.
-
-### trumpet
-
-- [Twitter Tool](https://www.trumpet.house/)
-
 ### auto-gpt
 
 - [auto-gpt gui](https://news.agpt.co/)
-
-### kadoa
-
-- [kadoa](https://www.kadoa.com/signup/self-serve) - Scrape Websites Easily With AI
 
 ### Suno
 
@@ -60,25 +46,9 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [MULTI·ON](https://b482b2hr95m.typeform.com/to/M5AJZ0i2) - see https://twitter.com/divgarg9/status/1648394059483054081
 
-### Embra
-
-- [Embra](https://embra.app/) - "Your personal, intelligent AI — always one second away! Embra can pull in contextual data from Chrome and other apps to speed up and unlock creativity across Q&A, brainstorming, writing, reading, and coding."
-
 ### Sourcegraph
 
 - [Cody](https://sourcegraph.typeform.com/cody-signup) - "Cody knows about your code. It has templated actions, such as writing unit tests, generating doc comments, summarizing code, that kind of thing"
-
-### Airchat
-
-- [Airchat](https://www.getairchat.com/) - not sure what this is, but it's a waitlist for something AI-related
-
-### Taxy.AI
-
-- [Taxy.AI](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform) - Taxy.AI uses GPT-4 to control your web browser and take actions on your behalf. You give the high-level instructions and Taxy figures out exactly what steps to take.
-
-### waitlist
-
-- [waitlist](https://waitlist.wtf) - It's a waitlist for waitlists. Join the waitlist for waitlists.
 
 ### Anthropic
 
