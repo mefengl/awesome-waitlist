@@ -12,6 +12,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Google AI Tools
 
+- [Gemini 2.0 Preview](https://docs.google.com/forms/d/e/1FAIpQLSc1yAQ8aJeUUHjlLjuEVmanVvoS_YFUmHtwsetl6GXVg-U0Jw/viewform) - Preview registration for Gemini 2.0 in Gemini Code Assist, available in supported IDEs like VS Code, IntelliJ, PyCharm, Cloud Workstations and Cloud Shell Editor.
 - [Jules](https://labs.google.com/jules/home) - An AI experiment from Google Labs exploring conversational interactions.
 - [Video FX](https://aitestkitchen.withgoogle.com/tools/video-fx) - AI-powered video effects and editing tools from Google AI Test Kitchen.
 
