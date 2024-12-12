@@ -2,6 +2,8 @@
 
 A curated list of awesome waitlists for various AI plugins, services, and tools related to OpenAI, GitHub Copilot, and other AI development resources.
 
+> Get notified when new links are added, see https://github.com/mefengl/how-to-watch-releases
+
 ## Contents
 
 - [Google AI Tools](#google-ai-tools)
