@@ -10,6 +10,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Google AI Tools
 
+- [Jules](https://labs.google.com/jules/home) - An AI experiment from Google Labs exploring conversational interactions.
 - [Video FX](https://aitestkitchen.withgoogle.com/tools/video-fx) - AI-powered video effects and editing tools from Google AI Test Kitchen.
 
 ## GitHubNext
