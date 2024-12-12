@@ -34,21 +34,9 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [Music LM](https://aitestkitchen.withgoogle.com/experiments/music-lm) - "Describe a musical idea and hear it come to life"
 
-### auto-gpt
-
-- [auto-gpt gui](https://news.agpt.co/)
-
 ### Suno
 
 - [Suno Studio](https://3os84zs17th.typeform.com/suno-studio) - such as https://suno-ai.notion.site/Bark-Examples-5edae8b02a604b54a42244ba45ebc2e2
-
-### MULTION
-
-- [MULTI·ON](https://b482b2hr95m.typeform.com/to/M5AJZ0i2) - see https://twitter.com/divgarg9/status/1648394059483054081
-
-### Sourcegraph
-
-- [Cody](https://sourcegraph.typeform.com/cody-signup) - "Cody knows about your code. It has templated actions, such as writing unit tests, generating doc comments, summarizing code, that kind of thing"
 
 ### Anthropic
 
