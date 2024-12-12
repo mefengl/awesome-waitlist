@@ -8,6 +8,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 - [Google AI Tools](#google-ai-tools)
 - [GitHubNext](#githubnext)
+- [tldraw](#tldraw)
 - [Archive](#archive)
 
 ## Google AI Tools
@@ -19,6 +20,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 ## GitHubNext
 
 - [Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) - A new AI-powered development environment that brings together coding, documentation, and collaboration.
+
+## tldraw
+
+- [Computer](https://computer.tldraw.com/) - An experimental visual programming application powered by Gemini AI that lets users create workflows from blocks of text, images, and instructions on an infinite canvas.
 
 ## Archive
 
