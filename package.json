@@ -1,0 +1,11 @@
+{
+  "name": "awesome-waitlist",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "bump": "bumpp -y -q"
+  },
+  "devDependencies": {
+    "bumpp": "^9.9.0"
+  }
+}
