@@ -65,10 +65,6 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 
 ## Contributing
 
-If you would like to add a new AI-related waitlist to the list, please follow these steps:
+Fork, add waitlist, and create a pull request.
 
-1. Fork this repository.
-2. Add the new waitlist to the appropriate section in alphabetical order.
-3. Create a pull request with a brief description of the waitlist.
-
-Please make sure the waitlist is relevant to the AI development community and follows the format of the existing entries.
+> While all AI tool submissions are welcome, they will be reviewed to maintain quality. If you're unsure about a tool's quality, feel free to submit - it might be better than you think!
