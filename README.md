@@ -9,6 +9,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [Google AI Tools](#google-ai-tools)
 - [GitHubNext](#githubnext)
 - [tldraw](#tldraw)
+- [ElevenLabs](#elevenlabs)
 - [Archive](#archive)
 
 ## Google AI Tools
@@ -24,6 +25,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 ## tldraw
 
 - [Computer](https://computer.tldraw.com/) - An experimental visual programming application powered by Gemini AI that lets users create workflows from blocks of text, images, and instructions on an infinite canvas.
+
+## ElevenLabs
+
+- [ElevenLabs Desktop](https://x.com/ammaar/status/1882103656298004901) - A new desktop application experience from ElevenLabs, offering AI voice synthesis capabilities.
 
 ## Archive
 
