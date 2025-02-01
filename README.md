@@ -10,6 +10,7 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 - [GitHubNext](#githubnext)
 - [tldraw](#tldraw)
 - [ElevenLabs](#elevenlabs)
+- [Raycast](#raycast)
 - [Archive](#archive)
 
 ## Google AI Tools
@@ -29,6 +30,10 @@ A curated list of awesome waitlists for various AI plugins, services, and tools 
 ## ElevenLabs
 
 - [ElevenLabs Desktop](https://x.com/ammaar/status/1882103656298004901) - A new desktop application experience from ElevenLabs, offering AI voice synthesis capabilities.
+
+## Raycast
+
+- [Raycast for Windows](https://www.raycast.com/windows) - Join the waitlist to get notified when the popular productivity tool Raycast becomes available for Windows.
 
 ## Archive
 
